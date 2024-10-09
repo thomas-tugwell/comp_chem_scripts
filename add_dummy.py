@@ -1,3 +1,4 @@
+# Script by Thomas H. Tugwell
 import numpy as np
 import argparse
 
