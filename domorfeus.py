@@ -1,3 +1,4 @@
+# Script by Thomas H. Tugwell
 from morfeus import BuriedVolume, read_xyz 
 import os
 import glob
